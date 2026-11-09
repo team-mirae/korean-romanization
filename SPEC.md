@@ -32,6 +32,7 @@ Each of these vowel letters has exactly one value. The American English readings
 |---|---|---|---|
 | `e-` | ㅐ | [e] | Same sound as ㅔ in the broadcast standard. The hyphen is the long-sound mark, which here keeps ㅐ distinct from ㅔ (`e`). |
 | `uh` | ㅓ | [ʌ] | The American "uh", as in *cut* and *sun*. |
+| `ae` | ㅐ | [e] | Alternative spelling of `e-`, with exactly the same meaning. Meant for romaji-style IMEs, where typing a hyphen in the middle of a word is awkward. Examples: 새 → `sae` = `se-`, ㅒ → `yae` = `ye-`. |
 | `xu` | ㅡ | [ɯ] | Based on the romaji `u` in す/つ. The `x` marks that the vowel is not ㅜ. |
 | `xui` | ㅢ | [ɰi] | ㅡ + ㅣ. |
 
@@ -43,4 +44,5 @@ Example words: 개 → `ge-`, 내가 → `ne-ga`, 어머니 → `uhmuhni`, 거�
 
 - **Hyphen (`-`):** reserved for the long-sound mark (§3). It is never used to separate syllables.
 - **Apostrophe (`'`):** separates syllables where the boundary would otherwise be ambiguous.
+- **`a` followed by `e`:** `ae` always reads as ㅐ. When ㅏ is followed by a syllable starting with ㅔ, such as the particle 에, an apostrophe goes between them: 바다에 → `bada'e` (`badae` would read as 바대).
 - **`h` between vowels:** a vowel followed by `h` and another vowel splits as vowel + `h` | vowel. For example, `suhul` is 서울 (`suh` + `ul`). The other split, with `h` starting the next syllable, takes an apostrophe: 수헐 → `su'hul`.

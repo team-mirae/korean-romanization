@@ -1,0 +1,290 @@
+Id	Tag	Language	Text	Romanization	Example	Phonemic	Phonetic	Notes
+2000000	EnglishA_Apple	English	a	a	apple	æ	æ	short a, closed syllable
+2000100	EnglishA_Cake	English	a	a	cake	eɪ	eɪ	long a, magic e
+2000200	EnglishA_About	English	a	a	about	ə	ə	unstressed, reduced
+2000300	EnglishA_Father	English	a	a	father	ɑ	ɑ	also ball, water (cot-caught merger)
+2000400	EnglishA_Any	English	a	a	any	ɛ	ɛ	also many; before r as in care
+2000500	EnglishA_Was	English	a	a	was	ʌ	ʌ	after w, also what
+2000600	EnglishA_Village	English	a	a	village	ɪ	ɪ	unstressed -age
+2010000	EnglishB_Bed	English	b	b	bed	b	b	
+2010100	EnglishB_Lamb	English	b	b	lamb			silent after m, also comb, debt
+2020000	EnglishC_Cat	English	c	c	cat	k	kʰ	hard c before a, o, u; aspirated in a stressed onset
+2020100	EnglishC_City	English	c	c	city	s	s	soft c before e, i, y
+2020200	EnglishC_Scan	English	c	c	scan	k	k	unaspirated after s
+2020300	EnglishC_Ocean	English	c	c	ocean	ʃ	ʃ	c before ea, ia, ie
+2020400	EnglishC_Cello	English	c	c	cello	tʃ	tʃ	Italian loan
+2020500	EnglishC_Muscle	English	c	c	muscle			silent in sc
+2030000	EnglishD_Dog	English	d	d	dog	d	d	
+2030100	EnglishD_Body	English	d	d	body	d	ɾ	flapped between vowels
+2030200	EnglishD_Jumped	English	d	d	jumped	t	t	past tense -ed after a voiceless consonant
+2030300	EnglishD_Soldier	English	d	d	soldier	dʒ	dʒ	d before i + vowel
+2030400	EnglishD_Wednesday	English	d	d	wednesday			silent
+2040000	EnglishE_Bed	English	e	e	bed	ɛ	ɛ	short e, closed syllable
+2040100	EnglishE_Me	English	e	e	me	i	i	long e, open syllable
+2040200	EnglishE_Cake	English	e	e	cake			word-final silent e
+2040300	EnglishE_Taken	English	e	e	taken	ə	ə	unstressed, reduced
+2040400	EnglishE_Pretty	English	e	e	pretty	ɪ	ɪ	also England
+2040500	EnglishE_Cafe	English	e	e	cafe	eɪ	eɪ	French loan, written café
+2050000	EnglishF_Fish	English	f	f	fish	f	f	
+2050100	EnglishF_Of	English	f	f	of	v	v	only in of
+2060000	EnglishG_Go	English	g	g	go	g	g	hard g
+2060100	EnglishG_Gem	English	g	g	gem	dʒ	dʒ	soft g before e, i, y
+2060200	EnglishG_Sign	English	g	g	sign			silent in gn
+2060300	EnglishG_Beige	English	g	g	beige	ʒ	ʒ	French loan, also garage
+2070000	EnglishH_Hat	English	h	h	hat	h	h	
+2070100	EnglishH_Hour	English	h	h	hour			silent, also honest, vehicle
+2080000	EnglishI_Sit	English	i	i	sit	ɪ	ɪ	short i, closed syllable
+2080100	EnglishI_Bite	English	i	i	bite	aɪ	aɪ	long i, magic e
+2080200	EnglishI_Machine	English	i	i	machine	i	i	loan value, also pizza
+2080300	EnglishI_Animal	English	i	i	animal	ə	ə	unstressed, reduced
+2080400	EnglishI_Onion	English	i	i	onion	j	j	glide before a vowel
+2080500	EnglishI_Business	English	i	i	business			silent
+2090000	EnglishJ_Jam	English	j	j	jam	dʒ	dʒ	
+2090100	EnglishJ_Jalapeno	English	j	j	jalapeno	h	h	Spanish loan, written jalapeño
+2090200	EnglishJ_Hallelujah	English	j	j	hallelujah	j	j	Hebrew/German value
+2100000	EnglishK_Kite	English	k	k	kite	k	kʰ	aspirated in a stressed onset
+2100100	EnglishK_Skin	English	k	k	skin	k	k	unaspirated after s
+2100200	EnglishK_Knee	English	k	k	knee			silent in initial kn
+2110000	EnglishL_Leg	English	l	l	leg	l	l	clear l in the onset
+2110100	EnglishL_Ball	English	l	l	ball	l	ɫ	dark l in the coda
+2110200	EnglishL_Walk	English	l	l	walk			silent, also talk, half, calm
+2120000	EnglishM_Man	English	m	m	man	m	m	
+2120100	EnglishM_Mnemonic	English	m	m	mnemonic			silent in initial mn
+2130000	EnglishN_No	English	n	n	no	n	n	
+2130100	EnglishN_Think	English	n	n	think	ŋ	ŋ	before k or g
+2130200	EnglishN_Autumn	English	n	n	autumn			silent in final mn
+2140000	EnglishO_Hot	English	o	o	hot	ɑ	ɑ	short o; also dog (cot-caught merger)
+2140100	EnglishO_Go	English	o	o	go	oʊ	oʊ	long o
+2140200	EnglishO_Son	English	o	o	son	ʌ	ʌ	also love, come
+2140300	EnglishO_Do	English	o	o	do	u	u	also to, who
+2140400	EnglishO_Lemon	English	o	o	lemon	ə	ə	unstressed, reduced
+2140500	EnglishO_Wolf	English	o	o	wolf	ʊ	ʊ	also woman
+2140600	EnglishO_One	English	o	o	one	wʌ	wʌ	only in one, once
+2140700	EnglishO_Women	English	o	o	women	ɪ	ɪ	only in women
+2150000	EnglishP_Pen	English	p	p	pen	p	pʰ	aspirated in a stressed onset
+2150100	EnglishP_Spin	English	p	p	spin	p	p	unaspirated after s
+2150200	EnglishP_Psychology	English	p	p	psychology			silent in initial ps, pn
+2160000	EnglishQ_Queen	English	q	q	queen	k	kʰ	always followed by u; aspirated in a stressed onset
+2160100	EnglishQ_Mosquito	English	q	q	mosquito	k	k	unaspirated after s
+2170000	EnglishR_Red	English	r	r	red	ɹ	ɹ	rhotic; see the r groups for r-colored vowels
+2180000	EnglishS_Sun	English	s	s	sun	s	s	
+2180100	EnglishS_Is	English	s	s	is	z	z	between vowels and in endings
+2180200	EnglishS_Sugar	English	s	s	sugar	ʃ	ʃ	also sure
+2180300	EnglishS_Measure	English	s	s	measure	ʒ	ʒ	s before ure, ion
+2180400	EnglishS_Island	English	s	s	island			silent
+2190000	EnglishT_Top	English	t	t	top	t	tʰ	aspirated in a stressed onset
+2190100	EnglishT_Water	English	t	t	water	t	ɾ	flapped between vowels
+2190200	EnglishT_Stop	English	t	t	stop	t	t	unaspirated after s
+2190300	EnglishT_Mountain	English	t	t	mountain	t	ʔ	glottal stop before syllabic n
+2190400	EnglishT_Nation	English	t	t	nation	ʃ	ʃ	in -tion
+2190500	EnglishT_Nature	English	t	t	nature	tʃ	tʃ	in -ture
+2190600	EnglishT_Listen	English	t	t	listen			silent, also castle, often
+2200000	EnglishU_Cup	English	u	u	cup	ʌ	ʌ	short u, closed syllable
+2200100	EnglishU_Rule	English	u	u	rule	u	u	long u after r, l, j
+2200200	EnglishU_Cute	English	u	u	cute	ju	ju	long u, magic e
+2200300	EnglishU_Put	English	u	u	put	ʊ	ʊ	also full, push
+2200400	EnglishU_Focus	English	u	u	focus	ə	ə	unstressed, reduced
+2200500	EnglishU_Language	English	u	u	language	w	w	glide after g, q, s
+2200600	EnglishU_Guess	English	u	u	guess			silent after g
+2200700	EnglishU_Busy	English	u	u	busy	ɪ	ɪ	only in busy, business
+2210000	EnglishV_Van	English	v	v	van	v	v	
+2220000	EnglishW_We	English	w	w	we	w	w	
+2220100	EnglishW_Write	English	w	w	write			silent in initial wr, also two, sword
+2230000	EnglishX_Box	English	x	x	box	ks	ks	
+2230100	EnglishX_Exam	English	x	x	exam	gz	gz	ex before a stressed vowel
+2230200	EnglishX_Xylophone	English	x	x	xylophone	z	z	word-initial
+2230300	EnglishX_Anxious	English	x	x	anxious	kʃ	kʃ	also luxury
+2230400	EnglishX_Xi	English	x	x	xi	ʃ	ʃ	pinyin value, known to some readers from names
+2240000	EnglishY_Yes	English	y	y	yes	j	j	consonant y
+2240100	EnglishY_My	English	y	y	my	aɪ	aɪ	stressed final y
+2240200	EnglishY_Happy	English	y	y	happy	i	i	unstressed final y
+2240300	EnglishY_Gym	English	y	y	gym	ɪ	ɪ	Greek loans
+2250000	EnglishZ_Zoo	English	z	z	zoo	z	z	
+2250100	EnglishZ_Azure	English	z	z	azure	ʒ	ʒ	also seizure
+2250200	EnglishZ_Nazi	English	z	z	nazi	ts	ts	German loans
+2500000	EnglishCh_Chair	English	ch	ch	chair	tʃ	tʃ	
+2500100	EnglishCh_Character	English	ch	ch	character	k	kʰ	Greek loans; aspirated in a stressed onset
+2500200	EnglishCh_Chef	English	ch	ch	chef	ʃ	ʃ	French loans
+2505000	EnglishSh_Ship	English	sh	sh	ship	ʃ	ʃ	
+2510000	EnglishTh_Think	English	th	th	think	θ	θ	voiceless th
+2510100	EnglishTh_This	English	th	th	this	ð	ð	voiced th, function words
+2510200	EnglishTh_Thomas	English	th	th	thomas	t	tʰ	names, also thyme
+2515000	EnglishPh_Phone	English	ph	ph	phone	f	f	
+2520000	EnglishGh_Ghost	English	gh	gh	ghost	g	g	word-initial
+2520100	EnglishGh_Laugh	English	gh	gh	laugh	f	f	word-final, also tough
+2520200	EnglishGh_Daughter	English	gh	gh	daughter			silent, also in igh, eigh, ough
+2525000	EnglishNg_Sing	English	ng	ng	sing	ŋ	ŋ	
+2525100	EnglishNg_Finger	English	ng	ng	finger	ŋg	ŋg	inside a root
+2525200	EnglishNg_Danger	English	ng	ng	danger	ndʒ	ndʒ	before e, i
+2530000	EnglishCk_Ticket	English	ck	ck	ticket	k	k	
+2535000	EnglishWh_What	English	wh	wh	what	w	w	wine-whine merger
+2535100	EnglishWh_Who	English	wh	wh	who	h	h	before o
+2540000	EnglishQu_Queen	English	qu	qu	queen	kw	kʰw	aspirated in a stressed onset
+2540100	EnglishQu_Unique	English	qu	qu	unique	k	k	French loans, final -que
+2545000	EnglishTs_Cats	English	ts	ts	cats	ts	ts	word-final, plural or third person
+2545100	EnglishTs_Tsunami	English	ts	ts	tsunami	s	s	word-initial; most readers drop the t, careful readers say ts
+2545200	EnglishTs_Tsar	English	ts	ts	tsar	z	z	word-initial in Russian loans
+2550000	EnglishDg_Edge	English	dg	dg	edge	dʒ	dʒ	
+2555000	EnglishTch_Watch	English	tch	tch	watch	tʃ	tʃ	
+2560000	EnglishAe_Gaelic	English	ae	ae	gaelic	eɪ	eɪ	usual cold reading of KRAMS ae (gae, sae), as in Mae, Rae, reggae
+2560100	EnglishAe_Aesthetic	English	ae	ae	aesthetic	ɛ	ɛ	Greek/Latin loans
+2560200	EnglishAe_Algae	English	ae	ae	algae	i	i	Latin plurals, also Caesar
+2560300	EnglishAe_Maestro	English	ae	ae	maestro	aɪ	aɪ	Italian/Spanish loans
+2560400	EnglishAe_Michael	English	ae	ae	michael	ə	ə	a reduced, e silent
+2565000	EnglishEo_Video	English	eo	eo	video	ioʊ	ioʊ	two syllables; the usual cold reading of eo, as in rodeo
+2565100	EnglishEo_Neon	English	eo	eo	neon	iɑ	iɑ	two syllables, also geography
+2565200	EnglishEo_People	English	eo	eo	people	i	i	only in people
+2565300	EnglishEo_Leopard	English	eo	eo	leopard	ɛ	ɛ	also jeopardy
+2565400	EnglishEo_Pigeon	English	eo	eo	pigeon	ə	ə	unstressed, also surgeon
+2565500	EnglishEo_Seoul	English	eo	eo	seoul	oʊ	oʊ	the name Seoul only
+2570000	EnglishEu_Feud	English	eu	eu	feud	ju	ju	
+2570100	EnglishEu_Neutral	English	eu	eu	neutral	u	u	after n, l, r (yod-dropping)
+2570200	EnglishEu_Europe	English	eu	eu	europe	jʊ	jʊ	before r
+2570300	EnglishEu_Museum	English	eu	eu	museum	iə	iə	two syllables
+2570400	EnglishEu_Freud	English	eu	eu	freud	ɔɪ	ɔɪ	German names
+2575000	EnglishUh_Huh	English	uh	uh	huh	ʌ	ʌ	also uh, duh; the respelling vowel of cut; KRAMS uhmuhni reads the same
+2580000	EnglishAh_Blah	English	ah	ah	blah	ɑ	ɑ	word-final ah, also the respelling vowel of father
+2580100	EnglishAh_Sarah	English	ah	ah	sarah	ə	ə	unstressed final ah, h silent
+2580200	EnglishAh_Ahead	English	ah	ah	ahead	əh	əh	split across the syllable boundary
+2585000	EnglishOh_Oh	English	oh	oh	oh	oʊ	oʊ	also the respelling vowel of go
+2585100	EnglishOh_John	English	oh	oh	john	ɑ	ɑ	h silent
+2585200	EnglishOh_Ohio	English	oh	oh	ohio	oʊh	oʊh	split across the syllable boundary
+2590000	EnglishEh_Meh	English	eh	eh	meh	ɛ	ɛ	also the respelling vowel of bed
+2590100	EnglishEh_Eh	English	eh	eh	eh	eɪ	eɪ	the interjection
+2590200	EnglishEh_Behind	English	eh	eh	behind	ɪh	ɪh	split across the syllable boundary
+2595000	EnglishIh_Ih	English	ih	ih	ih	ɪ	ɪ	pronunciation-respelling token (as in KIH-tee); no common English word
+2595100	EnglishIh_Shih	English	ih	ih	shih	i	i	as in shih tzu, h silent
+2595200	EnglishIh_Nihilism	English	ih	ih	nihilism	aɪ	aɪ	h silent
+2600000	EnglishWo_Wonder	English	wo	wo	wonder	wʌ	wʌ	also won, worry
+2600100	EnglishWo_Wok	English	wo	wo	wok	wɑ	wɑ	also wobble, wombat
+2600200	EnglishWo_Woke	English	wo	wo	woke	woʊ	woʊ	long o
+2600300	EnglishWo_Woman	English	wo	wo	woman	wʊ	wʊ	also wolf, wood
+2600400	EnglishWo_Women	English	wo	wo	women	wɪ	wɪ	only in women
+2600500	EnglishWo_Two	English	wo	wo	two	u	u	w silent, also sword
+2605000	EnglishWoe_Woe	English	woe	woe	woe	woʊ	woʊ	read as the English word woe; KRAMS woeguk reads the same
+2610000	EnglishWue_Wueituh	English	wue	wue	wueituh	wu	wu	reader's cold reading of a KRAMS spelling; no English word has it; ue read as in blue, true; readers who know Spanish (huevos) may give wɛ or weɪ
+2615000	EnglishYu_Yule	English	yu	yu	yule	ju	ju	also yukon
+2615100	EnglishYu_Yummy	English	yu	yu	yummy	jʌ	jʌ	short u
+2620000	EnglishYuh_Yuh	English	yuh	yuh	yuh	jʌ	jʌ	informal spelling of yeah, you; KRAMS yuhgi reads the same
+2625000	EnglishYa_Yacht	English	ya	ya	yacht	jɑ	jɑ	also yard, yawn
+2625100	EnglishYa_Yak	English	ya	ya	yak	jæ	jæ	short a, also yam
+2625200	EnglishYa_Ya	English	ya	ya	ya	jə	jə	informal you, as in see ya
+2630000	EnglishYe_Yes	English	ye	ye	yes	jɛ	jɛ	short e
+2630100	EnglishYe_Bye	English	ye	ye	bye	aɪ	aɪ	word-final after a consonant, also rye
+2630200	EnglishYe_Ye	English	ye	ye	ye	ji	ji	the archaic word; the usual cold reading of a bare ye
+2635000	EnglishYo_Yo	English	yo	yo	yo	joʊ	joʊ	also yoga, yogurt
+2635100	EnglishYo_Yonder	English	yo	yo	yonder	jɑ	jɑ	short o
+2640000	EnglishWa_Water	English	wa	wa	water	wɑ	wɑ	a after w, also wash, wallet
+2640100	EnglishWa_Wax	English	wa	wa	wax	wæ	wæ	before k, g, x, ng
+2640200	EnglishWa_Was	English	wa	wa	was	wʌ	wʌ	also what
+2640300	EnglishWa_Warm	English	wa	wa	warm	wɔ	wɔ	before r
+2640400	EnglishWa_Wage	English	wa	wa	wage	weɪ	weɪ	long a, magic e
+2645000	EnglishWi_Win	English	wi	wi	win	wɪ	wɪ	short i
+2645100	EnglishWi_Wide	English	wi	wi	wide	waɪ	waɪ	long i, magic e
+2645200	EnglishWi_Kiwi	English	wi	wi	kiwi	wi	wi	loans, also KRAMS wi
+2650000	EnglishXu_Xuro	English	xu	xu	xuro	zu	zu	reader's cold reading of a KRAMS spelling; no English word has it; word-initial x read as z, as in xylophone
+2650100	EnglishXu_Xu	English	xu	xu	xu	ʃu	ʃu	the Chinese surname, read with the pinyin value by readers who know it
+2650200	EnglishXu_Sexual	English	xu	xu	sexual	kʃu	kʃu	inside English words, also luxury
+2655000	EnglishAr_Car	English	ar	ar	car	ɑɹ	ɑɹ	stressed
+2655100	EnglishAr_Dollar	English	ar	ar	dollar	ɚ	ɚ	unstressed
+2655200	EnglishAr_War	English	ar	ar	war	ɔɹ	ɔɹ	after w
+2655300	EnglishAr_Carry	English	ar	ar	carry	ɛɹ	ɛɹ	before a vowel (Mary-marry-merry merger)
+2660000	EnglishEr_Her	English	er	er	her	ɝ	ɝ	stressed
+2660100	EnglishEr_Butter	English	er	er	butter	ɚ	ɚ	unstressed
+2660200	EnglishEr_Very	English	er	er	very	ɛɹ	ɛɹ	before a vowel
+2660300	EnglishEr_Hero	English	er	er	hero	ɪɹ	ɪɹ	before a vowel, also zero
+2665000	EnglishIr_Bird	English	ir	ir	bird	ɝ	ɝ	stressed
+2665100	EnglishIr_Mirror	English	ir	ir	mirror	ɪɹ	ɪɹ	before a vowel
+2665200	EnglishIr_Virus	English	ir	ir	virus	aɪɹ	aɪɹ	long i before a vowel
+2670000	EnglishOr_For	English	or	or	for	ɔɹ	ɔɹ	stressed
+2670100	EnglishOr_Doctor	English	or	or	doctor	ɚ	ɚ	unstressed
+2670200	EnglishOr_Word	English	or	or	word	ɝ	ɝ	after w, also work, world
+2675000	EnglishUr_Turn	English	ur	ur	turn	ɝ	ɝ	stressed
+2675100	EnglishUr_Saturday	English	ur	ur	saturday	ɚ	ɚ	unstressed
+2675200	EnglishUr_Rural	English	ur	ur	rural	ʊɹ	ʊɹ	before a vowel, also tourist
+2675300	EnglishUr_Bury	English	ur	ur	bury	ɛɹ	ɛɹ	only in bury
+2680000	EnglishEe_See	English	ee	ee	see	i	i	
+2680100	EnglishEe_Been	English	ee	ee	been	ɪ	ɪ	only in been
+2680200	EnglishEe_Matinee	English	ee	ee	matinee	eɪ	eɪ	French loans, also entree
+2685000	EnglishEa_Eat	English	ea	ea	eat	i	i	
+2685100	EnglishEa_Bread	English	ea	ea	bread	ɛ	ɛ	also head, dead
+2685200	EnglishEa_Great	English	ea	ea	great	eɪ	eɪ	also break, steak
+2685300	EnglishEa_Heart	English	ea	ea	heart	ɑ	ɑ	before r, also hearth
+2685400	EnglishEa_Idea	English	ea	ea	idea	iə	iə	two syllables, also area
+2690000	EnglishOo_Food	English	oo	oo	food	u	u	
+2690100	EnglishOo_Book	English	oo	oo	book	ʊ	ʊ	before k, also good, foot
+2690200	EnglishOo_Blood	English	oo	oo	blood	ʌ	ʌ	also flood
+2690300	EnglishOo_Door	English	oo	oo	door	ɔ	ɔ	before r, also floor
+2695000	EnglishOu_Out	English	ou	ou	out	aʊ	aʊ	
+2695100	EnglishOu_Soup	English	ou	ou	soup	u	u	French loans, also you, group
+2695200	EnglishOu_Touch	English	ou	ou	touch	ʌ	ʌ	also young, country
+2695300	EnglishOu_Four	English	ou	ou	four	ɔ	ɔ	before r, also your, course
+2695400	EnglishOu_Could	English	ou	ou	could	ʊ	ʊ	also would, should
+2695500	EnglishOu_Soul	English	ou	ou	soul	oʊ	oʊ	also shoulder
+2695600	EnglishOu_Famous	English	ou	ou	famous	ə	ə	unstressed -ous
+2700000	EnglishOw_Cow	English	ow	ow	cow	aʊ	aʊ	
+2700100	EnglishOw_Snow	English	ow	ow	snow	oʊ	oʊ	also know, show
+2705000	EnglishAi_Rain	English	ai	ai	rain	eɪ	eɪ	
+2705100	EnglishAi_Said	English	ai	ai	said	ɛ	ɛ	also again
+2705200	EnglishAi_Captain	English	ai	ai	captain	ə	ə	unstressed
+2705300	EnglishAi_Aisle	English	ai	ai	aisle	aɪ	aɪ	also loans such as Thai, bonsai
+2710000	EnglishAy_Day	English	ay	ay	day	eɪ	eɪ	
+2710100	EnglishAy_Says	English	ay	ay	says	ɛ	ɛ	only in says
+2710200	EnglishAy_Kayak	English	ay	ay	kayak	aɪ	aɪ	loans, also bayou
+2715000	EnglishOa_Boat	English	oa	oa	boat	oʊ	oʊ	
+2715100	EnglishOa_Broad	English	oa	oa	broad	ɑ	ɑ	also abroad (cot-caught merger)
+2715200	EnglishOa_Boa	English	oa	oa	boa	oʊə	oʊə	two syllables, also koala
+2720000	EnglishEigh_Eight	English	eigh	eigh	eight	eɪ	eɪ	also weigh, neighbor
+2720100	EnglishEigh_Height	English	eigh	eigh	height	aɪ	aɪ	also sleight
+2725000	EnglishIgh_Night	English	igh	igh	night	aɪ	aɪ	
+2730000	EnglishEw_New	English	ew	ew	new	u	u	yod-dropping after n, d, t
+2730100	EnglishEw_Few	English	ew	ew	few	ju	ju	after f, m, v, p
+2730200	EnglishEw_Sew	English	ew	ew	sew	oʊ	oʊ	only in sew, shew
+2735000	EnglishUe_Blue	English	ue	ue	blue	u	u	
+2735100	EnglishUe_Value	English	ue	ue	value	ju	ju	after f, v, m, c
+2735200	EnglishUe_Tongue	English	ue	ue	tongue			silent after g, also league
+2740000	EnglishOi_Oil	English	oi	oi	oil	ɔɪ	ɔɪ	
+2740100	EnglishOi_Choir	English	oi	oi	choir	waɪ	waɪ	only in choir
+2740200	EnglishOi_Reservoir	English	oi	oi	reservoir	wɑ	wɑ	French loans, also memoir
+2745000	EnglishOy_Boy	English	oy	oy	boy	ɔɪ	ɔɪ	
+2745100	EnglishOy_Coyote	English	oy	oy	coyote	aɪ	aɪ	Spanish loan
+2750000	EnglishAu_Haul	English	au	au	haul	ɑ	ɑ	also caught (cot-caught merger)
+2750100	EnglishAu_Laugh	English	au	au	laugh	æ	æ	also aunt
+2750200	EnglishAu_Chauffeur	English	au	au	chauffeur	oʊ	oʊ	French loans
+2750300	EnglishAu_Kraut	English	au	au	kraut	aʊ	aʊ	German loans
+2755000	EnglishAw_Saw	English	aw	aw	saw	ɑ	ɑ	cot-caught merger
+2760000	EnglishIe_Pie	English	ie	ie	pie	aɪ	aɪ	word-final
+2760100	EnglishIe_Field	English	ie	ie	field	i	i	also believe
+2760200	EnglishIe_Friend	English	ie	ie	friend	ɛ	ɛ	only in friend
+2760300	EnglishIe_Quiet	English	ie	ie	quiet	aɪə	aɪə	two syllables, also science
+2765000	EnglishEi_Receive	English	ei	ei	receive	i	i	after c, also seize
+2765100	EnglishEi_Vein	English	ei	ei	vein	eɪ	eɪ	also rein, beige
+2765200	EnglishEi_Seismic	English	ei	ei	seismic	aɪ	aɪ	Greek and German loans
+2765300	EnglishEi_Their	English	ei	ei	their	ɛ	ɛ	before r
+2770000	EnglishEy_Money	English	ey	ey	money	i	i	unstressed final, also key
+2770100	EnglishEy_They	English	ey	ey	they	eɪ	eɪ	also obey, grey
+2770200	EnglishEy_Geyser	English	ey	ey	geyser	aɪ	aɪ	also eye
+2775000	EnglishUi_Fruit	English	ui	ui	fruit	u	u	also juice
+2775100	EnglishUi_Build	English	ui	ui	build	ɪ	ɪ	also guilt
+2775200	EnglishUi_Guide	English	ui	ui	guide	aɪ	aɪ	u silent after g
+2775300	EnglishUi_Suite	English	ui	ui	suite	wi	wi	French loans
+2775400	EnglishUi_Ruin	English	ui	ui	ruin	uɪ	uɪ	two syllables
+2780000	EnglishOe_Toe	English	oe	oe	toe	oʊ	oʊ	also hoe, Joe
+2780100	EnglishOe_Shoe	English	oe	oe	shoe	u	u	also canoe
+2780200	EnglishOe_Does	English	oe	oe	does	ʌ	ʌ	only in does
+2780300	EnglishOe_Poem	English	oe	oe	poem	oʊə	oʊə	two syllables
+2780400	EnglishOe_Phoenix	English	oe	oe	phoenix	i	i	Greek/Latin loans
+2780500	EnglishOe_Chloe	English	oe	oe	chloe	oʊi	oʊi	two syllables in names, also Zoe
+2785000	EnglishXui_Xuisa	English	xui	xui	xuisa	zwi	zwi	reader's cold reading of a KRAMS spelling; no English word has it; x read as z, ui as in suite; some readers give zui in two syllables
+2790000	EnglishYae_Yae	English	yae	yae	yae	jeɪ	jeɪ	reader's cold reading of a KRAMS spelling; no English word has it; ae read as in Mae, Rae
+2795000	EnglishWoae_Woae	English	woae	woae	woae	woʊeɪ	woʊeɪ	reader's cold reading of a KRAMS spelling; no English word has it; read as wo + ae in two syllables
+2800000	EnglishWuh_Wuh	English	wuh	wuh	wuh	wʌ	wʌ	reader's cold reading of a non-English spelling; KRAMS writes w-uh
+2805000	EnglishOugh_Though	English	ough	ough	though	oʊ	oʊ	
+2805100	EnglishOugh_Through	English	ough	ough	through	u	u	
+2805200	EnglishOugh_Tough	English	ough	ough	tough	ʌf	ʌf	also rough, enough
+2805300	EnglishOugh_Cough	English	ough	ough	cough	ɑf	ɑf	also trough
+2805400	EnglishOugh_Bought	English	ough	ough	bought	ɑ	ɑ	before t (cot-caught merger)
+2805500	EnglishOugh_Bough	English	ough	ough	bough	aʊ	aʊ	also plough, drought
+2810000	EnglishZz_Buzz	English	zz	zz	buzz	z	z	
+2810100	EnglishZz_Pizza	English	zz	zz	pizza	ts	ts	Italian loans
+2815000	EnglishTz_Waltz	English	tz	tz	waltz	ts	ts	German loans, also blitz

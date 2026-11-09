@@ -1,0 +1,145 @@
+Id	Tag	Language	Text	Romanization	Example	Phonemic	Phonetic	Notes
+3000000	JapaneseA	Japanese	あ/ア	a		a	a	
+3000010	JapaneseI	Japanese	い/イ	i		i	i	
+3000020	JapaneseU	Japanese	う/ウ	u		ɯ	ɯ	
+3000030	JapaneseE	Japanese	え/エ	e		e	e	
+3000040	JapaneseO	Japanese	お/オ	o		o	o	
+3000050	JapaneseKa	Japanese	か/カ	ka		ka	ka	
+3000060	JapaneseKi	Japanese	き/キ	ki		ki	ki	
+3000070	JapaneseKu	Japanese	く/ク	ku		kɯ	kɯ	
+3000080	JapaneseKe	Japanese	け/ケ	ke		ke	ke	
+3000090	JapaneseKo	Japanese	こ/コ	ko		ko	ko	
+3000100	JapaneseSa	Japanese	さ/サ	sa		sa	sa	
+3000110	JapaneseShi	Japanese	し/シ	shi		si	ɕi	
+3000120	JapaneseSu	Japanese	す/ス	su		sɯ	sɯ	
+3000130	JapaneseSe	Japanese	せ/セ	se		se	se	
+3000140	JapaneseSo	Japanese	そ/ソ	so		so	so	
+3000150	JapaneseTa	Japanese	た/タ	ta		ta	ta	
+3000160	JapaneseChi	Japanese	ち/チ	chi		ti	tɕi	
+3000170	JapaneseTsu	Japanese	つ/ツ	tsu		tɯ	tsɯ	
+3000180	JapaneseTe	Japanese	て/テ	te		te	te	
+3000190	JapaneseTo	Japanese	と/ト	to		to	to	
+3000200	JapaneseNa	Japanese	な/ナ	na		na	na	
+3000210	JapaneseNi	Japanese	に/ニ	ni		ni	ni	
+3000220	JapaneseNu	Japanese	ぬ/ヌ	nu		nɯ	nɯ	
+3000230	JapaneseNe	Japanese	ね/ネ	ne		ne	ne	
+3000240	JapaneseNo	Japanese	の/ノ	no		no	no	
+3000250	JapaneseHa	Japanese	は/ハ	ha		ha	ha	Particle は is read wa
+3000260	JapaneseHi	Japanese	ひ/ヒ	hi		hi	çi	
+3000270	JapaneseFu	Japanese	ふ/フ	fu		hɯ	ɸɯ	
+3000280	JapaneseHe	Japanese	へ/ヘ	he		he	he	Particle へ is read e
+3000290	JapaneseHo	Japanese	ほ/ホ	ho		ho	ho	
+3000300	JapaneseMa	Japanese	ま/マ	ma		ma	ma	
+3000310	JapaneseMi	Japanese	み/ミ	mi		mi	mi	
+3000320	JapaneseMu	Japanese	む/ム	mu		mɯ	mɯ	
+3000330	JapaneseMe	Japanese	め/メ	me		me	me	
+3000340	JapaneseMo	Japanese	も/モ	mo		mo	mo	
+3000350	JapaneseYa	Japanese	や/ヤ	ya		ja	ja	
+3000360	JapaneseYu	Japanese	ゆ/ユ	yu		jɯ	jɯ	
+3000370	JapaneseYo	Japanese	よ/ヨ	yo		jo	jo	
+3000380	JapaneseRa	Japanese	ら/ラ	ra		ɾa	ɾa	
+3000390	JapaneseRi	Japanese	り/リ	ri		ɾi	ɾi	
+3000400	JapaneseRu	Japanese	る/ル	ru		ɾɯ	ɾɯ	
+3000410	JapaneseRe	Japanese	れ/レ	re		ɾe	ɾe	
+3000420	JapaneseRo	Japanese	ろ/ロ	ro		ɾo	ɾo	
+3000430	JapaneseWa	Japanese	わ/ワ	wa		wa	wa	
+3000440	JapaneseWo	Japanese	を/ヲ	o		o	o	Tag JapaneseWo (collision with お JapaneseO); Hepburn o, traditional Hepburn wo; some speakers say [wo]
+3100000	JapaneseGa	Japanese	が/ガ	ga		ga	ga	Word-medially often [ŋa] in conservative Tokyo speech
+3100010	JapaneseGi	Japanese	ぎ/ギ	gi		gi	gi	
+3100020	JapaneseGu	Japanese	ぐ/グ	gu		gɯ	gɯ	
+3100030	JapaneseGe	Japanese	げ/ゲ	ge		ge	ge	
+3100040	JapaneseGo	Japanese	ご/ゴ	go		go	go	
+3100050	JapaneseZa	Japanese	ざ/ザ	za		za	dza	Initial [dz], intervocalic [z]
+3100060	JapaneseJi	Japanese	じ/ジ	ji		zi	dʑi	Initial [dʑ], intervocalic [ʑ]
+3100070	JapaneseZu	Japanese	ず/ズ	zu		zɯ	dzɯ	
+3100080	JapaneseZe	Japanese	ぜ/ゼ	ze		ze	dze	
+3100090	JapaneseZo	Japanese	ぞ/ゾ	zo		zo	dzo	
+3100100	JapaneseDa	Japanese	だ/ダ	da		da	da	
+3100110	JapaneseDi	Japanese	ぢ/ヂ	ji		zi	dʑi	Merged with じ in the standard language (yotsugana); tag JapaneseDi (Nihon-shiki) to avoid collision with じ
+3100120	JapaneseDu	Japanese	づ/ヅ	zu		zɯ	dzɯ	Merged with ず in the standard language (yotsugana); tag JapaneseDu (Nihon-shiki) to avoid collision with ず
+3100130	JapaneseDe	Japanese	で/デ	de		de	de	
+3100140	JapaneseDo	Japanese	ど/ド	do		do	do	
+3100150	JapaneseBa	Japanese	ば/バ	ba		ba	ba	
+3100160	JapaneseBi	Japanese	び/ビ	bi		bi	bi	
+3100170	JapaneseBu	Japanese	ぶ/ブ	bu		bɯ	bɯ	
+3100180	JapaneseBe	Japanese	べ/ベ	be		be	be	
+3100190	JapaneseBo	Japanese	ぼ/ボ	bo		bo	bo	
+3100200	JapanesePa	Japanese	ぱ/パ	pa		pa	pa	
+3100210	JapanesePi	Japanese	ぴ/ピ	pi		pi	pi	
+3100220	JapanesePu	Japanese	ぷ/プ	pu		pɯ	pɯ	
+3100230	JapanesePe	Japanese	ぺ/ペ	pe		pe	pe	
+3100240	JapanesePo	Japanese	ぽ/ポ	po		po	po	
+3100250	JapaneseVu	Japanese	ゔ/ヴ	vu		vɯ	bɯ	Usual Tokyo realization is [b]; [v] occurs only in careful or foreign-influenced speech. Phonemic /v/ is a marginal loanword phoneme
+3200000	JapaneseKya	Japanese	きゃ/キャ	kya		kja	kja	
+3200010	JapaneseKyu	Japanese	きゅ/キュ	kyu		kjɯ	kjɯ	
+3200020	JapaneseKyo	Japanese	きょ/キョ	kyo		kjo	kjo	
+3200030	JapaneseSha	Japanese	しゃ/シャ	sha		sja	ɕa	
+3200040	JapaneseShu	Japanese	しゅ/シュ	shu		sjɯ	ɕɯ	
+3200050	JapaneseSho	Japanese	しょ/ショ	sho		sjo	ɕo	
+3200060	JapaneseCha	Japanese	ちゃ/チャ	cha		tja	tɕa	
+3200070	JapaneseChu	Japanese	ちゅ/チュ	chu		tjɯ	tɕɯ	
+3200080	JapaneseCho	Japanese	ちょ/チョ	cho		tjo	tɕo	
+3200090	JapaneseNya	Japanese	にゃ/ニャ	nya		nja	nja	
+3200100	JapaneseNyu	Japanese	にゅ/ニュ	nyu		njɯ	njɯ	
+3200110	JapaneseNyo	Japanese	にょ/ニョ	nyo		njo	njo	
+3200120	JapaneseHya	Japanese	ひゃ/ヒャ	hya		hja	ça	
+3200130	JapaneseHyu	Japanese	ひゅ/ヒュ	hyu		hjɯ	çɯ	
+3200140	JapaneseHyo	Japanese	ひょ/ヒョ	hyo		hjo	ço	
+3200150	JapaneseMya	Japanese	みゃ/ミャ	mya		mja	mja	
+3200160	JapaneseMyu	Japanese	みゅ/ミュ	myu		mjɯ	mjɯ	
+3200170	JapaneseMyo	Japanese	みょ/ミョ	myo		mjo	mjo	
+3200180	JapaneseRya	Japanese	りゃ/リャ	rya		ɾja	ɾja	
+3200190	JapaneseRyu	Japanese	りゅ/リュ	ryu		ɾjɯ	ɾjɯ	
+3200200	JapaneseRyo	Japanese	りょ/リョ	ryo		ɾjo	ɾjo	
+3200210	JapaneseGya	Japanese	ぎゃ/ギャ	gya		gja	gja	
+3200220	JapaneseGyu	Japanese	ぎゅ/ギュ	gyu		gjɯ	gjɯ	
+3200230	JapaneseGyo	Japanese	ぎょ/ギョ	gyo		gjo	gjo	
+3200240	JapaneseJa	Japanese	じゃ/ジャ	ja		zja	dʑa	
+3200250	JapaneseJu	Japanese	じゅ/ジュ	ju		zjɯ	dʑɯ	
+3200260	JapaneseJo	Japanese	じょ/ジョ	jo		zjo	dʑo	
+3200270	JapaneseDya	Japanese	ぢゃ/ヂャ	ja		zja	dʑa	Merged with じゃ in the standard language (yotsugana); tag JapaneseDya (Nihon-shiki) to avoid collision with じゃ
+3200280	JapaneseDyu	Japanese	ぢゅ/ヂュ	ju		zjɯ	dʑɯ	Merged with じゅ in the standard language (yotsugana); tag JapaneseDyu (Nihon-shiki) to avoid collision with じゅ
+3200290	JapaneseDyo	Japanese	ぢょ/ヂョ	jo		zjo	dʑo	Merged with じょ in the standard language (yotsugana); tag JapaneseDyo (Nihon-shiki) to avoid collision with じょ
+3200300	JapaneseBya	Japanese	びゃ/ビャ	bya		bja	bja	
+3200310	JapaneseByu	Japanese	びゅ/ビュ	byu		bjɯ	bjɯ	
+3200320	JapaneseByo	Japanese	びょ/ビョ	byo		bjo	bjo	
+3200330	JapanesePya	Japanese	ぴゃ/ピャ	pya		pja	pja	
+3200340	JapanesePyu	Japanese	ぴゅ/ピュ	pyu		pjɯ	pjɯ	
+3200350	JapanesePyo	Japanese	ぴょ/ピョ	pyo		pjo	pjo	
+3300000	JapaneseN	Japanese	ん/ン	n		N	ɴ	Moraic nasal; tag JapaneseN. Citation form [ɴ]; assimilates to a following consonant (m, n, ŋ). Hepburn writes n' before a vowel or y
+3300010	JapaneseSokuon	Japanese	っ/ッ			Q	ʔ	Sokuon; tag JapaneseSokuon. No standalone Hepburn form: written by doubling the next consonant (tch before ch). In words it lengthens the following consonant
+3300020	JapaneseChoon	Japanese	ー			R	ː	Chōonpu, katakana only; tag JapaneseChoon. No standalone Hepburn form: written as a macron on the preceding vowel
+3400000	JapaneseYe	Japanese	イェ	ye		je	je	外来語の表記 list 2
+3400010	JapaneseWi	Japanese	ウィ	wi		wi	wi	外来語の表記 list 2
+3400020	JapaneseWe	Japanese	ウェ	we		we	we	外来語の表記 list 2
+3400030	JapaneseWoExt	Japanese	ウォ	wo		wo	wo	外来語の表記 list 2. Tag JapaneseWoExt (collision with an earlier JapaneseWo)
+3400040	JapaneseVa	Japanese	ヴァ	va		va	ba	外来語の表記 list 2. Usual Tokyo realization is [b]; [v] occurs only in careful or foreign-influenced speech. Phonemic /v/ is a marginal loanword phoneme
+3400050	JapaneseVi	Japanese	ヴィ	vi		vi	bi	外来語の表記 list 2. Usual Tokyo realization is [b]; [v] occurs only in careful or foreign-influenced speech. Phonemic /v/ is a marginal loanword phoneme
+3400060	JapaneseVe	Japanese	ヴェ	ve		ve	be	外来語の表記 list 2. Usual Tokyo realization is [b]; [v] occurs only in careful or foreign-influenced speech. Phonemic /v/ is a marginal loanword phoneme
+3400070	JapaneseVo	Japanese	ヴォ	vo		vo	bo	外来語の表記 list 2. Usual Tokyo realization is [b]; [v] occurs only in careful or foreign-influenced speech. Phonemic /v/ is a marginal loanword phoneme
+3400080	JapaneseVyu	Japanese	ヴュ	vyu		vjɯ	bjɯ	外来語の表記 list 2. Usual Tokyo realization is [b]; [v] occurs only in careful or foreign-influenced speech. Phonemic /v/ is a marginal loanword phoneme
+3400090	JapaneseKwa	Japanese	クァ	kwa		kwa	kwa	外来語の表記 list 2
+3400100	JapaneseKwi	Japanese	クィ	kwi		kwi	kwi	外来語の表記 list 2
+3400110	JapaneseKwe	Japanese	クェ	kwe		kwe	kwe	外来語の表記 list 2
+3400120	JapaneseKwo	Japanese	クォ	kwo		kwo	kwo	外来語の表記 list 2
+3400130	JapaneseGwa	Japanese	グァ	gwa		gwa	gwa	外来語の表記 list 2
+3400140	JapaneseShe	Japanese	シェ	she		sje	ɕe	外来語の表記 list 1
+3400150	JapaneseJe	Japanese	ジェ	je		zje	dʑe	外来語の表記 list 1
+3400160	JapaneseChe	Japanese	チェ	che		tje	tɕe	外来語の表記 list 1
+3400170	JapaneseTsa	Japanese	ツァ	tsa		tsa	tsa	外来語の表記 list 1. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400180	JapaneseTsi	Japanese	ツィ	tsi		tsi	tsi	外来語の表記 list 2. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400190	JapaneseTse	Japanese	ツェ	tse		tse	tse	外来語の表記 list 1. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400200	JapaneseTso	Japanese	ツォ	tso		tso	tso	外来語の表記 list 1. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400210	JapaneseTi	Japanese	ティ	ti		ti	ti	外来語の表記 list 1. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400220	JapaneseDiExt	Japanese	ディ	di		di	di	外来語の表記 list 1. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it. Tag JapaneseDiExt (collision with an earlier JapaneseDi)
+3400230	JapaneseTyu	Japanese	テュ	tyu		tjɯ	tjɯ	外来語の表記 list 2. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400240	JapaneseDyuExt	Japanese	デュ	dyu		djɯ	djɯ	外来語の表記 list 1. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it. Tag JapaneseDyuExt (collision with an earlier JapaneseDyu)
+3400250	JapaneseTu	Japanese	トゥ	tu		tɯ	tɯ	外来語の表記 list 2. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it
+3400260	JapaneseDuExt	Japanese	ドゥ	du		dɯ	dɯ	外来語の表記 list 2. Loanword stratum; phonemic value written as realized because the native analysis has no slot for it. Tag JapaneseDuExt (collision with an earlier JapaneseDu)
+3400270	JapaneseFa	Japanese	ファ	fa		fa	ɸa	外来語の表記 list 1. Phonemic /f/ is a marginal loanword phoneme
+3400280	JapaneseFi	Japanese	フィ	fi		fi	ɸi	外来語の表記 list 1. Phonemic /f/ is a marginal loanword phoneme
+3400290	JapaneseFe	Japanese	フェ	fe		fe	ɸe	外来語の表記 list 1. Phonemic /f/ is a marginal loanword phoneme
+3400300	JapaneseFo	Japanese	フォ	fo		fo	ɸo	外来語の表記 list 1. Phonemic /f/ is a marginal loanword phoneme
+3400310	JapaneseFyu	Japanese	フュ	fyu		fjɯ	ɸjɯ	外来語の表記 list 2. Phonemic /f/ is a marginal loanword phoneme
+3500000	JapaneseWiOld	Japanese	ゐ/ヰ	i		i	i	Obsolete; historically /wi/, merged with い. Modified Hepburn i (traditional Hepburn wi); tag JapaneseWiOld
+3500010	JapaneseWeOld	Japanese	ゑ/ヱ	e		e	e	Obsolete; historically /we/, merged with え. Modified Hepburn e (traditional Hepburn we); tag JapaneseWeOld

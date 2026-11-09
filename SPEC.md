@@ -28,21 +28,24 @@ Each of these vowel letters has exactly one value. The American English readings
 
 ## 3. Other vowels
 
-| Spelling | Korean | Sound | Note |
-|---|---|---|---|
-| `e-` | ㅐ | [e] | Same sound as ㅔ in the broadcast standard. The hyphen is the long-sound mark, which here keeps ㅐ distinct from ㅔ (`e`). |
-| `uh` | ㅓ | [ʌ] | The American "uh", as in *cut* and *sun*. |
-| `ae` | ㅐ | [e] | Alternative spelling of `e-`, with exactly the same meaning. Meant for romaji-style IMEs, where typing a hyphen in the middle of a word is awkward. Examples: 새 → `sae` = `se-`, ㅒ → `yae` = `ye-`. |
-| `xu` | ㅡ | [ɯ] | Based on the romaji `u` in す/つ. The `x` marks that the vowel is not ㅜ. |
-| `xui` | ㅢ | [ɰi] | ㅡ + ㅣ. |
+| Spelling | Alternative | Korean | Sound | Note |
+|---|---|---|---|---|
+| `ae` | `e-` | ㅐ | [e] | Same sound as ㅔ in the broadcast standard. `ae` is the default. `e-` uses the hyphen long-sound mark and means exactly the same thing. |
+| `yae` | `ye-` | ㅒ | [je] | y + ㅐ. |
+| `wae` | `we-` | ㅙ | [we] | w + ㅐ. |
+| `uh` | | ㅓ | [ʌ] | The American "uh", as in *cut* and *sun*. |
+| `xu` | | ㅡ | [ɯ] | Based on the romaji `u` in す/つ. The `x` marks that the vowel is not ㅜ. |
+| `xui` | | ㅢ | [ɰi] | ㅡ + ㅣ. |
 
-Example words: 개 → `ge-`, 내가 → `ne-ga`, 어머니 → `uhmuhni`, 거기 → `guhgi`, 한글 → `hangxul`, 으로 → `xuro`, 의사 → `xuisa`.
+Converters that produce KRAMS output the default spellings. Readers and converters must accept both spellings as input.
+
+Example words: 개 → `gae`, 내가 → `naega`, 새 → `sae`, 왜 → `wae`, 어머니 → `uhmuhni`, 거기 → `guhgi`, 한글 → `hangxul`, 으로 → `xuro`, 의사 → `xuisa`.
 
 **The letter `x`** is reserved for the ㅡ marker. It is never pronounced, has no consonant value, and must not be read with its pinyin value (*sh*).
 
 ## 4. Separators
 
-- **Hyphen (`-`):** reserved for the long-sound mark (§3). It is never used to separate syllables.
+- **Hyphen (`-`):** reserved for the long-sound mark, used in the alternative spellings in §3. It is never used to separate syllables.
 - **Apostrophe (`'`):** separates syllables where the boundary would otherwise be ambiguous.
 - **`a` followed by `e`:** `ae` always reads as ㅐ. When ㅏ is followed by a syllable starting with ㅔ, such as the particle 에, an apostrophe goes between them: 바다에 → `bada'e` (`badae` would read as 바대).
 - **`h` between vowels:** a vowel followed by `h` and another vowel splits as vowel + `h` | vowel. For example, `suhul` is 서울 (`suh` + `ul`). The other split, with `h` starting the next syllable, takes an apostrophe: 수헐 → `su'hul`.

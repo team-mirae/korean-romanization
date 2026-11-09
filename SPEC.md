@@ -101,3 +101,23 @@ Example words: 개 → `gae`, 내가 → `naega`, 새 → `sae`, 어머니 → `
 - **Final consonants** are not defined yet.
 
 Examples: 가 `ga`, 카 `ka`, 까 `gga`/`kka`, 다 `da`, 타 `ta`, 따 `dda`/`tta`, 바 `ba`, 파 `pa`, 빠 `bba`/`ppa`, 자 `za`, 차 `tsa`, 짜 `zza`, 사 `sa`, 싸 `ssa`, 나 `na`, 마 `ma`, 라 `ra`, 아 `a`, 하 `ha`.
+
+## 6. Input method (IME) guidelines
+
+This section is a guideline for developers of IMEs that accept KRAMS input. It does not change how KRAMS is written.
+
+### 6.1 Keys
+
+| Key | Action |
+|---|---|
+| `Space` | Syllable separator. Ends the current syllable and keeps composing, without inserting a space. |
+| `Shift` + `Space` | Commits the composition, then inserts a space. |
+| `Shift` + `Enter` | Commits the composition and inserts nothing else. |
+
+Example: typing `sa rang` shows the composition 사랑, with no space. Pressing `Shift` + `Space` then commits 사랑 followed by a space.
+
+### 6.2 Syllable boundaries
+
+- **`Space` marks syllable boundaries during input,** so the user does not need to type the apostrophe from §4. For example, `ga e` composes 가에 and `gae` composes 개.
+- **Text typed without a space is split using the default rules in §4.**
+- **The IME also suggests candidates where §3.2 asks for it.** For example, `we` offers ㅚ, ㅙ and ㅞ.

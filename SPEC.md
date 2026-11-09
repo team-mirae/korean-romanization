@@ -25,3 +25,19 @@ Each of these vowel letters has exactly one value. The American English readings
 | `i` | い | ㅣ | アイ / ㅏㅣ (as in *bite*, *time*) |
 | `e` | え | ㅔ | イー / ㅣ (as in *be*, *me*) |
 | `o` | お | ㅗ | ア / ㅏ (as in *hot*, *stop*) |
+
+## 3. Other vowels
+
+| Spelling | Korean | Sound | Note |
+|---|---|---|---|
+| `e-` | ㅐ | [e] | Same sound as ㅔ in the broadcast standard. The hyphen is the long-sound mark, which here keeps ㅐ distinct from ㅔ (`e`). |
+| `uh` | ㅓ | [ʌ] | The American "uh", as in *cut* and *sun*. |
+| *undecided* | ㅡ | [ɯ] | |
+
+Example words: 개 → `ge-`, 내가 → `ne-ga`, 어머니 → `uhmuhni`, 거기 → `guhgi`.
+
+## 4. Separators
+
+- **Hyphen (`-`):** reserved for the long-sound mark (§3). It is never used to separate syllables.
+- **Apostrophe (`'`):** separates syllables where the boundary would otherwise be ambiguous.
+- **`h` between vowels:** a vowel followed by `h` and another vowel splits as vowel + `h` | vowel. For example, `suhul` is 서울 (`suh` + `ul`). The other split, with `h` starting the next syllable, takes an apostrophe: 수헐 → `su'hul`.

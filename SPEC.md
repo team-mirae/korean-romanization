@@ -28,24 +28,49 @@ Each of these vowel letters has exactly one value. The American English readings
 
 ## 3. Other vowels
 
+### 3.1 Simple vowels
+
 | Spelling | Alternative | Korean | Sound | Note |
 |---|---|---|---|---|
 | `ae` | `e-` | ㅐ | [e] | Same sound as ㅔ in the broadcast standard. `ae` is the default. `e-` uses the hyphen long-sound mark and means exactly the same thing. |
-| `yae` | `ye-` | ㅒ | [je] | y + ㅐ. |
-| `wae` | `we-` | ㅙ | [we] | w + ㅐ. |
 | `uh` | | ㅓ | [ʌ] | The American "uh", as in *cut* and *sun*. |
 | `xu` | | ㅡ | [ɯ] | Based on the romaji `u` in す/つ. The `x` marks that the vowel is not ㅜ. |
 | `xui` | | ㅢ | [ɰi] | ㅡ + ㅣ. |
 
+### 3.2 Glide vowels
+
+\* = identical to romaji.
+
+| Spelling | Alternative | Korean | Sound | Note |
+|---|---|---|---|---|
+| `ya`\* | | ㅑ | [ja] | |
+| `yuh` | | ㅕ | [jʌ] | |
+| `yo`\* | | ㅛ | [jo] | |
+| `yu`\* | | ㅠ | [ju] | |
+| `yae` | `ye-` | ㅒ | [je] | |
+| `ye` | | ㅖ | [je] | |
+| `wa`\* | | ㅘ | [wa] | |
+| `w-uh` | | ㅝ | [wʌ] | The hyphen after `w` marks ㅝ as distinct from ㅓ. This is the only place a hyphen follows `w`. |
+| `wi` | | ㅟ | [wi] | |
+| `woe` | | ㅚ | [we] | Spelled to show ㅗ. |
+| `woae` | `woe-` | ㅙ | [we] | ㅗ + ㅐ. |
+| `wue` | | ㅞ | [we] | ㅜ + ㅔ. |
+
+ㅚ, ㅙ and ㅞ have the same sound. They are told apart by spelling: `wo-` for the ㅗ-based vowels and `wu-` for the ㅜ-based one.
+
+**`we` is not a valid KRAMS spelling**, because it would be ambiguous among the three. An input method (IME) that receives `we` should suggest all three candidates: ㅚ, ㅙ and ㅞ.
+
+### 3.3 Conversion and examples
+
 Converters that produce KRAMS output the default spellings. Readers and converters must accept both spellings as input.
 
-Example words: 개 → `gae`, 내가 → `naega`, 새 → `sae`, 왜 → `wae`, 어머니 → `uhmuhni`, 거기 → `guhgi`, 한글 → `hangxul`, 으로 → `xuro`, 의사 → `xuisa`.
+Example words: 개 → `gae`, 내가 → `naega`, 새 → `sae`, 어머니 → `uhmuhni`, 거기 → `guhgi`, 한글 → `hangxul`, 으로 → `xuro`, 의사 → `xuisa`, 여기 → `yuhgi`, 예 → `ye`, 왜 → `woae`, 외국 → `woeguk`, 웨이터 → `wueituh`, 뭐 → `mw-uh`.
 
 **The letter `x`** is reserved for the ㅡ marker. It is never pronounced, has no consonant value, and must not be read with its pinyin value (*sh*).
 
 ## 4. Separators
 
-- **Hyphen (`-`):** reserved for the long-sound mark, used in the alternative spellings in §3. It is never used to separate syllables.
+- **Hyphen (`-`):** used in exactly two places: after a vowel as the long-sound mark in the alternative spellings (§3), and after `w` in `w-uh` (ㅝ). It is never used to separate syllables.
 - **Apostrophe (`'`):** separates syllables where the boundary would otherwise be ambiguous.
 - **`a` followed by `e`:** `ae` always reads as ㅐ. When ㅏ is followed by a syllable starting with ㅔ, such as the particle 에, an apostrophe goes between them: 바다에 → `bada'e` (`badae` would read as 바대).
 - **`h` between vowels:** a vowel followed by `h` and another vowel splits as vowel + `h` | vowel. For example, `suhul` is 서울 (`suh` + `ul`). The other split, with `h` starting the next syllable, takes an apostrophe: 수헐 → `su'hul`.

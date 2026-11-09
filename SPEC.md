@@ -32,9 +32,12 @@ Each of these vowel letters has exactly one value. The American English readings
 |---|---|---|---|
 | `e-` | ㅐ | [e] | Same sound as ㅔ in the broadcast standard. The hyphen is the long-sound mark, which here keeps ㅐ distinct from ㅔ (`e`). |
 | `uh` | ㅓ | [ʌ] | The American "uh", as in *cut* and *sun*. |
-| *undecided* | ㅡ | [ɯ] | |
+| `xu` | ㅡ | [ɯ] | Based on the romaji `u` in す/つ. The `x` marks that the vowel is not ㅜ. |
+| `xui` | ㅢ | [ɰi] | ㅡ + ㅣ. |
 
-Example words: 개 → `ge-`, 내가 → `ne-ga`, 어머니 → `uhmuhni`, 거기 → `guhgi`.
+Example words: 개 → `ge-`, 내가 → `ne-ga`, 어머니 → `uhmuhni`, 거기 → `guhgi`, 한글 → `hangxul`, 으로 → `xuro`, 의사 → `xuisa`.
+
+**The letter `x`** is reserved for the ㅡ marker. It is never pronounced, has no consonant value, and must not be read with its pinyin value (*sh*).
 
 ## 4. Separators
 

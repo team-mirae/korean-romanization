@@ -4,6 +4,14 @@ Internal name: `korean-romanization`
 
 KRAMS is a pronunciation-based, yet reversible, romanization system for modern Korean, written for readers who speak American English.
 
+## What KRAMS is
+
+KRAMS is an attempt to remove ambiguity from Korean romanization so that it can always be converted back to Hangul. To get there, it gives up some intuitive pronunciation.
+
+## What KRAMS is not
+
+KRAMS is not recommended for learning Korean pronunciation. It is designed for readers who are already familiar with Korean syllables.
+
 ## Objective
 
 - **Pronunciation-based and reversible.** KRAMS spells modern Korean the way it sounds, and the original Hangul must still be recoverable from the romanized text.

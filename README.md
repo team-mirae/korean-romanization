@@ -13,7 +13,7 @@ KRAMS is a pronunciation-based, yet reversible, romanization system for modern K
 
 ## Status
 
-KRAMS is in early design. The specification has not been written yet.
+KRAMS is in early design. See the draft [specification](SPEC.md).
 
 ## Credits
 

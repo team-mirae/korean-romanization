@@ -23,3 +23,5 @@ Each of these vowel letters has exactly one value. The American English readings
 | `u` | う | ㅜ | ゆ / ㅠ (as in *cute*, *use*) |
 | `a` | あ | ㅏ | エイ / ㅔㅣ (as in *cake*, *late*) |
 | `i` | い | ㅣ | アイ / ㅏㅣ (as in *bite*, *time*) |
+| `e` | え | ㅔ | イー / ㅣ (as in *be*, *me*) |
+| `o` | お | ㅗ | ア / ㅏ (as in *hot*, *stop*) |

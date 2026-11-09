@@ -104,7 +104,7 @@ Examples: 가 `ga`, 카 `ka`, 까 `gga`/`kka`, 다 `da`, 타 `ta`, 따 `dda`/`tt
 
 ## 6. Input method (IME) guidelines
 
-This section is a guideline for developers of IMEs that accept KRAMS input. It does not change how KRAMS is written.
+This section is a guideline for developers of IMEs that accept KRAMS input. It does not change how KRAMS is written. Any behavior not defined here, such as plain `Enter`, `Backspace` or how candidates are shown, is up to the developer, based on what their users need.
 
 ### 6.1 Keys
 

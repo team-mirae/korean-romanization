@@ -12,7 +12,10 @@ Some letters keep the values they have in Japanese romaji (Hepburn) instead of t
 
 | Spelling | Reads as | Korean | Note |
 |---|---|---|---|
-| `ts` | つ (`tsu`) | ㅈ / ㅊ / ㅉ | Marks the affricate family. Which spelling goes with which of the three members is not decided yet. |
+| `ts` | つ (`tsu`) | ㅊ | The start of *tsunami* said with the *t*, or the end of *cats*. |
+| `z` | ざ行 (s + ゛) | ㅈ | The *z* of ざ ず ぜ ぞ (`za zu ze zo`), never the buzzing English *z* of *zoo* or *zip*. At the start of a word it is a soft "dz", as in *zen* (ぜん), *zabuton* (ざぶとん) and *Zojirushi* (ぞうじるし). Between vowels it is lighter, as in *Suzuki* (すずき), *azuki* (あずき) and *kamikaze* (かみかぜ). |
+
+`zz` (ㅉ) is the tense form of `z`, following §5.
 
 ### 2.2 Vowels
 
@@ -74,3 +77,27 @@ Example words: 개 → `gae`, 내가 → `naega`, 새 → `sae`, 어머니 → `
 - **Apostrophe (`'`):** separates syllables where the boundary would otherwise be ambiguous.
 - **`a` followed by `e`:** `ae` always reads as ㅐ. When ㅏ is followed by a syllable starting with ㅔ, such as the particle 에, an apostrophe goes between them: 바다에 → `bada'e` (`badae` would read as 바대).
 - **`h` between vowels:** a vowel followed by `h` and another vowel splits as vowel + `h` | vowel. For example, `suhul` is 서울 (`suh` + `ul`). The other split, with `h` starting the next syllable, takes an apostrophe: 수헐 → `su'hul`.
+
+## 5. Initial consonants
+
+| Family | Lax | Aspirated | Tense |
+|---|---|---|---|
+| Velar | ㄱ `g` | ㅋ `k` | ㄲ `gg` / `kk` |
+| Alveolar | ㄷ `d` | ㅌ `t` | ㄸ `dd` / `tt` |
+| Bilabial | ㅂ `b` | ㅍ `p` | ㅃ `bb` / `pp` |
+| Palatal | ㅈ `z` (§2.1) | ㅊ `ts` (§2.1) | ㅉ `zz` |
+| Sibilant | ㅅ `s` | — | ㅆ `ss` |
+
+| Consonant | Spelling |
+|---|---|
+| ㄴ | `n` |
+| ㅁ | `m` |
+| ㄹ | `r` |
+| ㅇ | not written |
+| ㅎ | `h` |
+
+- **Tense consonants** are written as a doubled letter, like romaji gemination (っか → `kka`). For the velar, alveolar and bilabial families, both spellings are accepted. Which one is the default has not been decided yet.
+- **Silent ㅇ** is not written. A syllable that starts with ㅇ is written as its vowel alone.
+- **Final consonants** are not defined yet.
+
+Examples: 가 `ga`, 카 `ka`, 까 `gga`/`kka`, 다 `da`, 타 `ta`, 따 `dda`/`tta`, 바 `ba`, 파 `pa`, 빠 `bba`/`ppa`, 자 `za`, 차 `tsa`, 짜 `zza`, 사 `sa`, 싸 `ssa`, 나 `na`, 마 `ma`, 라 `ra`, 아 `a`, 하 `ha`.
